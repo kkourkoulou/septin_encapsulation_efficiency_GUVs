@@ -1,5 +1,5 @@
 
-           Quantification of septin encapsulation efficiency in GUVs (eDICE)
+Quantification of septin encapsulation efficiency in GUVs (eDICE)
 -----------------------------------------------------------------------------------
 
 
