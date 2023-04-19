@@ -14,7 +14,7 @@ import pandas as pd
 import csv
 
 ## Paths to folder with the data:
-path_to_folder = "D:\\Personal\\TU Delft\\Thesis\\23_03_March\\Encapsulation efficiency\\Analysis\\Output"
+path_to_folder = "D:\\Personal\\TU Delft\\Thesis\\Encapsulation efficiency\\Analysis\\Output"
 
 ## specific output folders for each region:
 DOPC_Region_8_folder = "\\DOPC-Region 8"
