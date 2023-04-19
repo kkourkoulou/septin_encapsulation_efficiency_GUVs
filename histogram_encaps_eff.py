@@ -21,7 +21,7 @@ c_nominal = 800
 
 ## Determine path to files from manual_filtering.py output:
     
-path_data = "D:\\Personal\\TU Delft\\Thesis\\23_03_March\\Encapsulation efficiency\\Analysis\\Output\\"
+path_data = "D:\\Personal\\TU Delft\\Thesis\\Encapsulation efficiency\\Analysis\\Output\\"
 
 ## Specify number of regions collected and the corresponding file names:
 num_regions = 7
