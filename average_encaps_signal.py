@@ -22,7 +22,7 @@ nodes           = [0.0, 0.05, 1.0]
 cmap_magenta_enhanced = LinearSegmentedColormap.from_list("cmap_magenta_enhanced", list(zip(nodes, colors)))
 
 ## Determine path to images and DisGUVery files and path for the output:
-path_to_folder = "D:\\Personal\\TU Delft\\Thesis\\23_03_March\\Encapsulation efficiency\\Analysis\\"
+path_to_folder = "D:\\Personal\\TU Delft\\Thesis\\Encapsulation efficiency\\Analysis\\"
 path_to_output = path_to_folder + "\\Output"
 
 #------------------------- INPUT --------------------------------
